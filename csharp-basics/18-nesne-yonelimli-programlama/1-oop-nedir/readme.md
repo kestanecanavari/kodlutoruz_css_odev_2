@@ -1,1 +1,0 @@
-# Object Orientented Programming Nedir?
